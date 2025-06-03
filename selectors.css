@@ -52,5 +52,5 @@
 /* 18. Använd :is() för att välja alla <h1>, <h2>, och <h3> element och sätt en rosa bakgrundsfärg */
 
 
-/* 19. Använd :where() och :has() för att ge alla <p> element utan extra font-size en färg */
+/* 19. Använd :where() och :has() för att ge alla <p> element utan extra vikt (<em>) en färg */
 
