@@ -49,8 +49,8 @@
 /* 17. Alla section som innehåller ett h2 ska få en grön ram */
 
 
-/* 18. Använd :is för att välja alla <h1>, <h2>, och <h3> element och sätt en rosa bakgrundsfärg */
+/* 18. Använd :is() för att välja alla <h1>, <h2>, och <h3> element och sätt en rosa bakgrundsfärg */
 
 
-/* 19. Använd :where för att ge alla <p> element utan extra vikt en färg */
+/* 19. Använd :where() och :has() för att ge alla <p> element utan extra font-size en färg */
 
