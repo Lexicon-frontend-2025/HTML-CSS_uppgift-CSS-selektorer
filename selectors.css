@@ -54,3 +54,4 @@ i/* 1. Ge alla element på sidan en 'box-sizing: border-box;' */
 
 /* 19. Använd _delvis_ :where() och :has() för att ge alla <p> element utan extra vikt (<em>) en färg */
 
+/* 20. Funkar inte ovan? Lista ut vilken annan fråga som spökar med den och varför */
