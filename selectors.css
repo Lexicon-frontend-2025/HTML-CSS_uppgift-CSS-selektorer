@@ -1,4 +1,4 @@
-/* 1. Ge alla element på sidan en 'box-sizing: border-box;' */
+i/* 1. Ge alla element på sidan en 'box-sizing: border-box;' */
 
 
 /* 2. <body> elementet ska ha bakgrundsfärg #bdc3c7 */
@@ -52,5 +52,5 @@
 /* 18. Använd :is() för att välja alla <h1>, <h2>, och <h3> element och sätt en rosa bakgrundsfärg */
 
 
-/* 19. Använd :where() och :has() för att ge alla <p> element utan extra vikt (<em>) en färg */
+/* 19. Använd _delvis_ :where() och :has() för att ge alla <p> element utan extra vikt (<em>) en färg */
 
